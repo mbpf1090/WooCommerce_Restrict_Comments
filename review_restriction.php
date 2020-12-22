@@ -1,9 +1,10 @@
 <?php
 /* 
- * Pluginn Name:       Restrict reviews
- * Description:       Customers can leave a review only once for each product.
- * Version:           1.1
- * Author:            MBPF
+ * Pluginn Name:	Restrict reviews
+ * Description:		Customers can leave a review only once for each product.
+ * Version:		1.1
+ * Author:		MBPF
+		 * PluginURI:		https://github.com/mbpf1090/WooCommerce_Restrict_Comments
 */
  
 if ( ! defined( 'ABSPATH' ) ) {
